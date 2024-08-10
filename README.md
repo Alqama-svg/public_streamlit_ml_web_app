@@ -2,7 +2,7 @@
 
 ## About
 
-This web appplication was fully developed in Python using Machine Learning libraries and environment. This model was deployed on streamlit cloud server. The model predicts the diseases trained on large datasets. The datasets which were used to train the model are mentioned below.
+This web appplication was fully developed in Python using Machine Learning libraries and environment. The model was deployed on streamlit cloud server. It predicts the diseases trained on large datasets. The datasets which were used to train the model are mentioned below.
 
 - Diabetes
 - Heart Disease
@@ -12,7 +12,7 @@ This web appplication was fully developed in Python using Machine Learning libra
 | Disease          | Model Type              | Accuracy |
 | ---------------- | ----------------------- | -------- |
 | Diabetes         | Machine Learning Model  |  98.53%  |
-| Hear Disease     | Machine Learning Model  |  98.41%  |
+| Heart Disease     | Machine Learning Model  |  98.41%  |
 
 ## NOTE
 
@@ -23,7 +23,7 @@ This web appplication was fully developed in Python using Machine Learning libra
 
 1. download the repository
 2. open the command prompt in the downloaded folder
-3. setup a virtual environment in the any of the code editor (i.e., VS code, Jupyyter Notebook).
+3. setup a virtual environment in the any of the code editor (i.e., VS code, Jupyter Notebook).
 
 ```
 mkvvirtualenv environment_name
@@ -44,12 +44,12 @@ python biDiseasePred_public.py
 
 ## Source of datasets
 
-All the datasets are taken into use from kaggle
+All the datasets taken into use are from kaggle
 
 - [Diabetes Dataset](https://www.kaggle.com/datasets/saurabh00007/diabetescsv)
 - [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
-## Seperate link for the python notebooks which were used to create and train the model
+## Seperate links for the python notebooks used to create and train the model
 
 - [Diabetes Notebook file](http://localhost:8888/lab/tree/DiabetesAnalysis.ipynb)
 - [Heart Disease Notebook file](http://localhost:8888/lab/tree/HeartAnalysis.ipynb)
