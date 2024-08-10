@@ -55,5 +55,10 @@ All the datasets are taken into use from kaggle
 - [Heart Disease Notebook file](http://localhost:8888/lab/tree/HeartAnalysis.ipynb)
 
 
+## Contribution
+
+Contributions to improve and enhance the model or add new features to make the mode more efficient are most welcome! kindly fork the repository, create a new branch, and submit a pull request with your changes. It'll be collaborating with y'all. Thanks
+
+
 
 
