@@ -2,7 +2,7 @@
 
 ## About
 
-This web appplication was fully developed in Python using Machine Learning libraries and environment. The model was deployed on streamlit cloud server. It predicts the diseases trained on large datasets. The datasets which were used to train the model are mentioned below.
+This web application was fully developed in Python using Machine Learning libraries and environment. The model was deployed on streamlit cloud server. It predicts the diseases trained on large datasets. The datasets which were used to train the model are mentioned below.
 
 - Diabetes
 - Heart Disease
