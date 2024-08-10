@@ -18,6 +18,7 @@ This web appplication was fully developed in Python using Machine Learning libra
 
 -> You can access the model at: http://localhost:8501/#diabetes-prediction-using-ml <br>
 -> Python version 3.8.19 was used for the whole project. <br>
+# Machine Learning
 
 ## important steps to run the model in your system
 
