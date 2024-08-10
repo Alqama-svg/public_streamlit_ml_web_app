@@ -18,7 +18,6 @@ This web appplication was fully developed in Python using Machine Learning libra
 
 -> You can access the model at: http://localhost:8501/#diabetes-prediction-using-ml <br>
 -> Python version 3.8.19 was used for the whole project. <br>
-# Machine Learning
 
 ## important steps to run the model in your system
 
@@ -50,7 +49,7 @@ All the datasets are taken into use from kaggle
 - [Diabetes Dataset](https://www.kaggle.com/datasets/saurabh00007/diabetescsv)
 - [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
-## Seperate link for the python notebooks which as used to create and train the model
+## Seperate link for the python notebooks which were used to create and train the model
 
 - [Diabetes Notebook file](http://localhost:8888/lab/tree/DiabetesAnalysis.ipynb)
 - [Heart Disease Notebook file](http://localhost:8888/lab/tree/HeartAnalysis.ipynb)
