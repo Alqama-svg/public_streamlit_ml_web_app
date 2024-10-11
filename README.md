@@ -1,4 +1,4 @@
-# Bi-Disease Prediction Model
+# Two Disease Prediction Model
 
 ## About
 
